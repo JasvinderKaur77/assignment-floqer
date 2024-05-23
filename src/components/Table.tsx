@@ -1,4 +1,4 @@
-import { data } from '../assets/salaries'
+// import { data } from '../assets/salaries'
 
 
 const Table = () => {
