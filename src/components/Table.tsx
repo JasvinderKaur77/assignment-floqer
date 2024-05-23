@@ -1,5 +1,4 @@
-// import { data } from '../assets/salaries'
-
+import { salaryData } from '../assets/salaries.ts';
 
 const Table = () => {
     return (
